@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: St John Project Development Journal
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This website holds all of my development notes for the St John project.
